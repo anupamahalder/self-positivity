@@ -51,8 +51,17 @@ button:hover{
     justify-content: space-between;
     align-items: center;
     background-color: #FFF;
-    width: 1000px;
+    height: 100vh;
 }
 .person-img{
     width: 300px;
+    padding: 0 30px;
+}
+.person-text{
+    width: 50%;
+}
+ul{
+    list-style: none;
+    list-style-image: url(./images/green-tick.png);
+    background-size: 10px;
 }
